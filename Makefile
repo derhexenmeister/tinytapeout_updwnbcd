@@ -1,4 +1,6 @@
-WOKWI_PROJECT_ID=334445762078310996
+WOKWI_PROJECT_ID=341194143598379604
+# Up/Down counter with debounce and BCD display
+#
 # logic puzzle and muxes
 # 4 inverters 334348818476696146
 # the clock divider 334335179919196756
